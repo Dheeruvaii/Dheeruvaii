@@ -1,5 +1,5 @@
 <h1 align="center"> 
-  Myself Dhiraj Sapkota </h1
+  Hi I'm Dhiraj Sapkota </h1
 <h3 align="center">
   A passionate Backend developer from Nepal</h3>
 
