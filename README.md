@@ -1,8 +1,5 @@
-<h1 align="center"> 
-
-  Namaste I'm Dhiraj Sapkota </h1
-<h3 align="center">
-  A passionate Backend developer from Nepal</h3>
+<h1 align="center"> Namaste I'm Dhiraj Sapkota <h3 align="center">A passionate Backend developer from Nepal
+</h1
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dheeruvaii&label=Profile%20views&color=0e75b6&style=flat" alt="dheeruvaii" /> </p>
 
