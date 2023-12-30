@@ -1,5 +1,5 @@
 <h1 align="center"> 
-<h3 align="center">![image](https://github.com/Dheeruvaii/Dheeruvaii/assets/101037569/0a5bc405-becf-4e49-b949-b153cc4b0e4a)
+<h3 align="center">
   Namaste I'm Dhiraj Sapkota </h1
 
   A passionate Backend developer from Nepal</h3>
