@@ -1,5 +1,5 @@
 <h1 align="center"> 
-  Hi I'm Dhiraj Sapkota </h1
+  Namaste I'm Dhiraj Sapkota </h1
 <h3 align="center">
   A passionate Backend developer from Nepal</h3>
 
@@ -15,6 +15,8 @@
 - 💬 Ask me about **HTML,CSS ,PYTHON ,DJANGO,JAVASCRIPTS**
 
 - 📫 How to reach me **dhirajsapkota260@gamil.com**
+-
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
