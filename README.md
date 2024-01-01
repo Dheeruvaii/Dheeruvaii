@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Hr Company web-application](https://rightpathhr.com/)
 
-- 💬 Ask me about **HTML,CSS ,PYTHON ,DJANGO,JAVASCRIPTS**
+- 💬 Ask me about  PYTHON ,DJANGO, **HTML,CSS 
 
 - 📫 How to reach me **dhirajsapkota260@gamil.com**
 -
