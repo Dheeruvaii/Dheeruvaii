@@ -5,16 +5,10 @@
 
 
 - 🔭 I’m currently working on [Flaresight](https://enterleaf.com/)
-
+- 🔭   [Hr Company web-application](https://rightpathhr.com/) 
 - 🌱 I’m currently learning **django,microservices implementations in django,start GO-lang(Jan7-2024)**
-
-- 🔭 I’m currently working on [Hr Company web-application](https://rightpathhr.com/)
-
 - 💬 Ask me about  PYTHON ,DJANGO, **HTML,CSS 
-
 - 📫 How to reach me **dhirajsapkota260@gamil.com**
--
-- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
