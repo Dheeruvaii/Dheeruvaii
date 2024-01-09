@@ -4,11 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dheeruvaii&label=Profile%20views&color=0e75b6&style=flat" alt="dheeruvaii" /> </p>
 
 
-- 🔭 I’m currently working on [Flaresight](https://enterleaf.com/)
-- 🔭   [Hr Company web-application](https://rightpathhr.com/) 
-- 🌱 I’m currently learning **PYTHON(DJANGO),(Microservices Implementations in DJANGO)
-- 💬 Ask me about  PYTHON ,DJANGO, **HTML,CSS 
-- 📫 How to reach me **dhirajsapkota260@gamil.com**
+- 🔭 I’m currently working on [Flaresight](https://enterleaf.com/)...
+- 🔭   [Hr Company web-application](https://rightpathhr.com/)...
+- 🌱 I’m currently learning **PYTHON(DJANGO),(Microservices Implementations in DJANGO)...
+- 💬 Ask me about  PYTHON ,DJANGO,HTML,CSS ...
+- 📫 How to reach me dhirajsapkota260@gamil.com...
 
 
 
