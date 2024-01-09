@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Flaresight](https://enterleaf.com/)
 - 🔭   [Hr Company web-application](https://rightpathhr.com/) 
-- 🌱 I’m currently learning **django,microservices implementations in django,start GO-lang(Jan7-2024)**
+- 🌱 I’m currently learning **PYTHON(DJANGO),(Microservices Implementations in DJANGO)
 - 💬 Ask me about  PYTHON ,DJANGO, **HTML,CSS 
 - 📫 How to reach me **dhirajsapkota260@gamil.com**
 
