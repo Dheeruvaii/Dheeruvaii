@@ -19,7 +19,6 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dheeruvaii&show_icons=true&locale=en&layout=compact" alt="dheeruvaii" /></p>
-[![GitHub Streak](https://streak-stats.demolab.com?user=DenverCoder1)](https://git.io/streak-stats)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dheeruvaii&show_icons=true&locale=en" alt="dheeruvaii" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dheeruvaii&" alt="dheeruvaii" /></p>
