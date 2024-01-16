@@ -9,7 +9,9 @@
 - 🌱 I’m currently learning [PYTHON(DJANGO),(Microservices Implementations in DJANGO)...]
 - 💬 Ask me about  [PYTHON ,DJANGO,HTML,CSS] ...
 - 📫 How to reach me [dhirajsapkota260@gamil.com](https://mail.google.com/mail/u/0/#inbox) [Linkdin](https://www.linkedin.com/in/dhiraj-sapkota/)...
-
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -17,11 +19,8 @@
  </p>
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dheeruvaii&show_icons=true&locale=en&layout=compact" alt="dheeruvaii" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dheeruvaii&show_icons=true&locale=en" alt="dheeruvaii" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dheeruvaii&" alt="dheeruvaii" /></p>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+
