@@ -10,7 +10,7 @@
 - 📫 How to reach me [dhirajsapkota260@gamil.com](https://mail.google.com/mail/u/0/#inbox) [Linkdin](https://www.linkedin.com/in/dhiraj-sapkota/)...
 
 
-
+xchgjk
 <h3 align="left">Languages and Tools:</h3>
 <p target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
  </p>
