@@ -20,12 +20,7 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
-
-###
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dheeruvaii&" alt="dheeruvaii" /></p> -->
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dheeruvaii&" alt="dheeruvaii" /></p>
 
 
 <div align="left">
