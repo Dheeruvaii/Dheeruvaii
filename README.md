@@ -8,8 +8,15 @@
 -  Currently working on [Flaresight](https://enterleaf.com/)...
 -  Personal Web-Applications .(https://rightpathhr.com/)...
 -  I’m currently learning [PYTHON(DJANGO),(Microservices Implementations in DJANGO)...
--  📧 Contact me via email at [dhirajsapkota260@gamil.com](mailto:dhirajsapkota260@gmail.com)or connect with me on  [LinkedIn](https://www.linkedin.com/in/dhiraj-sapkota/)
--  💬 Feel free to inquire about
+-  - 📧 Contact me via email at [dhirajsapkota260@gamil.com](mailto:dhirajsapkota260@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/dhiraj-sapkota/)
+  [<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"](https://www.linkedin.com/in/dhiraj-sapkota/)   />](https://www.linkedin.com/in/dhiraj-sapkota/) 
+
+  [<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"](mailto:dhirajsapkota260@gmail.com)  />](mailto:dhirajsapkota260@gmail.com)
+-  📧 Contact me via email at [dhirajsapkota260@gamil.com](mailto:dhirajsapkota260@gmail.com)or connect with me on  [LinkedIn](https://www.linkedin.com/in/dhiraj-sapkota/) 
+- [<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"]            (https://www.linkedin.com/in/dhiraj-sapkota/)   />
+  
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+-  💬 Feel free to inquire about 
       <p  target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a          href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
