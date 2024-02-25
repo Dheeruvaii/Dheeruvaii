@@ -9,8 +9,6 @@
 -  Personal Web-Applications .(https://rightpathhr.com/)...
 -  I’m currently learning [PYTHON(DJANGO),(Microservices Implementations in DJANGO)...
 -  📧 Contact me via email at [Email](mailto:dhirajsapkota260@gmail.com) or  [Linkdin](https://www.linkedin.com/in/dhiraj-sapkota/)
-  
- 
 -  💬 Feel free to inquire about 
   <p  target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a          href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
